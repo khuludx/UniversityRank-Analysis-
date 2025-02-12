@@ -30,9 +30,8 @@ jupyter notebook PDA_University_Rank_Analysis.ipynb
 - **Data Visualization**: Generating graphs to highlight trends.
 
 ## 📊 Sample Visualization
+![University Ranking Analysis](images/ranking_chart.png)
 
-images/image1.png
-images/image2.png
 
 ## 🤝 Contributions
 Feel free to **open a Pull Request** if you’d like to improve or extend this project.
